@@ -1,3 +1,3 @@
-# sih2024-wowmen-detection
+# sih2024-women-detection
 
-yolov5 version1 for lone women detection 
+yolov5 version1 for lone woman detection 
